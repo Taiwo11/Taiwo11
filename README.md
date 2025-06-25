@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Disu Taiye Mary 👋</h1>
 
-<!--
-**Taiwo11/Taiwo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Data Scientist | Data Analyst| Microbiology Graduate | Passionate About Data Driven Solutions
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🔬 About Me
+
+I’m a highly motivated and detail oriented individual with a background in Microbiology (HND – Upper Credit) and a recent diploma in Data Science from AltSchool Africa. My career journey reflects a unique intersection of scientific thinking and data analytics, equipping me with both critical thinking and technical skills.
+
+Currently, I’m focused on applying data science techniques to solve real-world problems, especially in healthcare, finance, and consumer industries.
+
+---
+
+### 🧠 Technical Skills
+
+- *Languages & Libraries:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- *Data Visualization:* Power BI, Tableau  
+- *Tools & Platforms:* Jupyter Notebook, Google Colab, Microsoft Excel  
+- *Core Focus:* Data Cleaning, Exploratory Data Analysis (EDA), Predictive Modeling, Reporting
+
+---
+
+### 📁 Featured Projects
+
+- 🏡 *House Price Prediction (Lagos & Abuja)*  
+  Built a regression model to predict housing prices using EDA and feature engineering.  
+  Tools: Python, Pandas, Scikit-learn, Matplotlib  
+  → [View Project](#)
+
+---
+
+### 📈 Currently Learning
+
+- Machine Learning Model Evaluation & Optimization  
+- SQL for Data Analysis  
+- Real-world case studies in Financial & Healthcare Analytics
+
+---
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/taiye-disu-olamide16)  
+- 📧 taiye.disu@gmail.com  
+- 🌍 Open to internships and trainee roles in Data Science & Analytics
+
+---
+
+<p align="center">
+Thanks for visiting! Let’s build data-driven solutions that make a difference 🚀
+</p>
