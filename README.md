@@ -25,10 +25,10 @@ Currently, I’m focused on applying data science techniques to solve real-world
 
 ### 📁 Featured Projects
 
-- 🏡 *House Price Prediction (Lagos & Abuja)*  
+- 🏡 *Nigeria House Price Prediction Model*  
   Built a regression model to predict housing prices using EDA and feature engineering.  
   Tools: Python, Pandas, Scikit-learn, Matplotlib  
-  → [View Project](#)
+  → [View Project](https://github.com/Taiwo11/Ngerian-House-Price-Prediction-Model)
 
 ---
 
