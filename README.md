@@ -8,7 +8,7 @@ Data Scientist | Data Analyst| Microbiology Graduate | Passionate About Data Dri
 
 ### 👩‍🔬 About Me
 
-I’m a highly motivated and detail oriented individual with a background in Microbiology (HND – Upper Credit) and a recent diploma in Data Science from AltSchool Africa. My career journey reflects a unique intersection of scientific thinking and data analytics, equipping me with both critical thinking and technical skills.
+I’m a highly motivated and detail oriented individual with a background in, Microbiology and a recent diploma in Data Science from AltSchool Africa. My aspiration reflects a unique intersection of scientific thinking and data analytics, equipping me with both critical thinking and technical skills.
 
 Currently, I’m focused on applying data science techniques to solve real-world problems, especially in healthcare, finance, and consumer industries.
 
