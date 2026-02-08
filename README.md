@@ -70,7 +70,6 @@ I’m open to contributing to teams and projects that value structured thinking,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taiye-disu)  
 - 📧 taiye.disu@gmail.com  
-- 🌍 Open to internships and trainee roles in Data Science & Analytics
 
 ---
 
