@@ -1,25 +1,53 @@
 <h1 align="center">Hi there, I'm Disu Taiye Mary 👋</h1>
 
 <p align="center">
-Data Scientist | Data Analyst| Microbiology Graduate | Passionate About Data Driven Solutions
+Automation Engineer | AI Workflow & Voice Agent Builder | n8n & ClickFunnels Specialist | Data Scientist | Data Analyst
 </p>
 
 ---
 
 ### 👩‍🔬 About Me
 
-I’m a highly motivated and detail oriented individual with a background in, Microbiology and a recent diploma in Data Science from AltSchool Africa. My aspiration reflects a unique intersection of scientific thinking and data analytics, equipping me with both critical thinking and technical skills.
+I turn operational friction into scalable systems using data, automation, and AI powered workflows.
 
-Currently, I’m focused on applying data science techniques to solve real-world problems, especially in healthcare, finance, and consumer industries.
+My work lives at the intersection of analysis, customer operations, and intelligent automation.
+
+With a background in scientific research and formal training in data science, I approach problems with structure, evidence, and precision.
+
+I focus on building systems that are scalable and reliable over time.
+
+I’ve designed and implemented AI enabled customer support systems using n8n, voice agents, and email automation, delivering clear improvements in service quality and operational efficiency.
+
+These solutions reduced average response times by 60%, eliminated repetitive manual work, and improved overall team efficiency by 40%.
+
+I’ve helped teams fix customer support bottlenecks by automating ticket triage, follow ups, and first line customer support.
+
+Beyond support operations, I’ve built internal AI assistants for affiliate marketing teams, enabling instant responses to recurring questions and removing 50+ manual replies per week from daily workflows.
+
+Across multiple engagements, I’ve resolved 200+ client onboarding and training issues, improving course completion rates and the overall customer experience.
+
+On the analytics side, I work extensively with Python, SQL, Power BI, Tableau, and Excel to turn complex datasets into insights that drive better decisions. 
+
+My analytical work includes
+- large scale housing market analysis, 
+- feature engineering and
+- predictive modeling using Random Forest and XGBoost, where performance gains came from thoughtful data preparation and model comparison.
+
+Today, my focus is on designing systems that scale combining analytics, automation, and AI to improve performance, efficiency, and decision making.
+
+I’m open to contributing to teams and projects that value structured thinking, measurable outcomes, and practical innovation, across sectors including technology, healthcare, finance, and consumer services.
 
 ---
 
 ### 🧠 Technical Skills
 
-- *Languages & Libraries:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- *Data Visualization:* Power BI, Tableau  
-- *Tools & Platforms:* Jupyter Notebook, Google Colab, Microsoft Excel  
-- *Core Focus:* Data Cleaning, Exploratory Data Analysis (EDA), Predictive Modeling, Reporting
+- *Languages & Libraries:* Python, Pandas, NumPy, Scikit-learn, Matplotlib
+- *AI & ML:* Predictive Modeling, NLP (Transformers, BERT), Model Evaluation
+- *Automation & APIs:*  OpenAI API, Zapier, n8n, ClickFunnels Integrations, Prompt Engineering
+- *Cloud & Infra:* AWS (Self-hosting n8n, deployments)
+- *Data Visualization:* Power BI, Tableau 
+- *Tools & Platforms:*  SQL, Microsoft Excel, Power Point, Jupyter Notebook, Google Colab, Git, Streamlit  
+- *Core Focus:*  Data Cleaning, EDA, Feature Engineering, Deployment
 
 ---
 
@@ -35,14 +63,12 @@ Currently, I’m focused on applying data science techniques to solve real-world
 ### 📈 Currently Learning
 
 - Machine Learning Model Evaluation & Optimization  
-- SQL for Data Analysis  
-- Real-world case studies in Financial & Healthcare Analytics
 
 ---
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/taiye-disu-olamide16)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/taiye-disu)  
 - 📧 taiye.disu@gmail.com  
 - 🌍 Open to internships and trainee roles in Data Science & Analytics
 
